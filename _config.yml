@@ -1,10 +1,10 @@
 # Site settings
 title: Joshua Blackman
 email: youremailaddress@gmail.com
-description: I am an Astronomer. This is my homepage. I'm still working on it!
+description: I am an Astronomer. This is my homepage.
 baseurl: "/blackmanjw.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-author:
+author: Joshua Blackman
 street_address: 1234 Somewhere Road
 city: Nashville
 state: TN
